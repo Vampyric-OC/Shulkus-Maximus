@@ -24,7 +24,7 @@ Button dispenses a new shulker.
 
 ![Shulkus Maximus Image #02](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_02.png)
 Back of the Creative Front End.
-This shows the rail input with latched the ticket switches and consolidation of minecarts to a single output rail.
+This shows the rail input with latched ticket switches and consolidation of minecarts to a single output rail.
 <br/><br/>
 
 ![Shulkus Maximus Image #03](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_03.png)
