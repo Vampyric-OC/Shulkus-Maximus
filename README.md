@@ -31,7 +31,7 @@ This shows the rail input with latched ticket switches and consolidation of mine
 Left, a shulker placer which places a shulker when the placed one is mined.
 Right is an alternative, smaller but more manual front end.
 Shulker return is done here by directly placing them in the minecart.
-The first 3 shulkers of this frontend show the shared nature of the front ends, these are the same as the first 3 of the crative front end.
+The first 3 shulkers of this frontend show the shared nature of the front ends, these are the same as the first 3 of the creative front end.
 You can have any number of front end and the system will distribute shulkers among these.
 The purple shulkers are filled by different shulker loaders, shown below.
 <br/><br/>
@@ -39,7 +39,7 @@ The purple shulkers are filled by different shulker loaders, shown below.
 ![Shulkus Maximus Image #04](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_04.png)
 32 completely over-engineered back end modules for the creative front end.
 Each module here has its own 4x hopper speed shulker unloader to keep all shulker boxes in their own front/back end combination.
-This allows you to color and rename all shulkers in a certain combination and those shulkers will stay put.
+This allows you to color and rename all shulkers in a certain combination and those shulkers will stay in those modules.
 The shulkers are filled by a 2x speed minecart to shulker loader, where the minecart is filled by a 27 long fast (2x speed) item filter.
 
 Things need not be this complex though. As shown below.
