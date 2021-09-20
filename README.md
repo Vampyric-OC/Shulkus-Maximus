@@ -28,7 +28,7 @@ This shows the rail input with latched ticket switches and consolidation of mine
 <br/><br/>
 
 ![Shulkus Maximus Image #03](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_03.png)
-Left a shulker placer which places a shulker when the placed one is mined.
+Left, a shulker placer which places a shulker when the placed one is mined.
 Right is an alternative, smaller but more manual front end.
 Shulker return is done here by directly placing them in the minecart.
 The first 3 shulkers of this frontend show the shared nature of the front ends, these are the same as the first 3 of the crative front end.
