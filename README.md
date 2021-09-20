@@ -9,7 +9,7 @@ TODO:
 Examples and structures you can find above or in the [World Download](https://github.com/Vampyric-OC/Shulkus-Maximus/raw/main/Shulkus%20Maximus.zip) zip.
 In the world you will find The Book. This is a manual and description of the Shulkus Maximus system and its components.
 
-The Shulkus Maximus system is a storage, automation and signaling ling system based on minecarts, shulker boxes and a ticket system.
+The Shulkus Maximus system is a storage, automation and signaling system based on minecarts, shulker boxes and a ticket system.
 It includes shared front ends for storage and farm input, back ends for item filtering, automatic smelting with super smelters and brewing with a super brewer.
 <br/><br/><br/>
 Example screenshots with description:
