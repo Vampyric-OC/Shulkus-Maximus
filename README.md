@@ -10,7 +10,7 @@ Examples and structures you can find above or in the [World Download](https://gi
 In the world you will find The Book. This is a manual and description of the Shulkus Maximus system and its components.
 
 The Shulkus Maximus system is a storage, automation and signaling system based on minecarts, shulker boxes and a ticket system.
-It includes shared front ends for storage and farm input, back ends for item filtering, automatic smelting with super smelters and brewing with a super brewer.
+It includes shared front ends for storage and farm input, back ends for item filtering, automatic smelting with super smelters, brewing with a super brewer and automatic bonemeal and tree farms.
 <br/><br/><br/>
 Example screenshots with description:
 <br/><br/>
