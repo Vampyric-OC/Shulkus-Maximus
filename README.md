@@ -89,12 +89,19 @@ The left is wood input (can of course be connected to an automatic tree farm), r
 <br/><br/>
 
 ![Shulkus Maximus Image #12](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_12.png)
+Bone meal farm. Designed for robustness, should not break.
+Does a bit over 2.5 bonemeal per bonemeal.
 <br/><br/>
 
 ![Shulkus Maximus Image #13](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_13.png)
+Simple Azelea tree farm. Slow but works if you just need a small but steady supply.
 <br/><br/>
 
 ![Shulkus Maximus Image #14](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_14.png)
+The bigger sister of the Azelea farm. Quite fast, produces around a stack of wood per minute.
+Is very hungry too though, it also eats a stack of bonemeal per minute.
+Luckely you can tune it for efficiency quite a lot by reducing the cycle count and changing the center dispensers to single pulse.
+Then 32 or even less bonemeal per stack of wood should be possible, but it will take a bit longer.
 <br/><br/>
 
 -V
