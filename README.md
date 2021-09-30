@@ -86,5 +86,15 @@ It also automatically smelts wood to charcoal and loads it up.
 ![Shulkus Maximus Image #11](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_11.png)
 Front end for the smelter.
 The left is wood input (can of course be connected to an automatic tree farm), right are 2 item in/outputs.
+<br/><br/>
+
+![Shulkus Maximus Image #12](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_12.png)
+<br/><br/>
+
+![Shulkus Maximus Image #13](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_13.png)
+<br/><br/>
+
+![Shulkus Maximus Image #14](https://raw.githubusercontent.com/Vampyric-OC/Shulkus-Maximus/main/Screenshots/Shulkus_Maximus_14.png)
+<br/><br/>
 
 -V
